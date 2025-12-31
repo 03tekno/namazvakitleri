@@ -1,7 +1,6 @@
-# Namaz Vakitleri version: test
-Namaz Vakitleri Linux için 
+# Namaz vakitleri version: 1.0 
+Namaz Vakitlerini gör 
 
-python3 namaz.py komutu ile çalıştırın!
+Download link: https://github.com/03tekno/namazvakitleri/releases/tag/current
 
-
-![screenshot](namaz.png "screenshot")
+![screenshot](resim.png "screenshot")

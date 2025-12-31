@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Namaz Vakitleri
+Comment=Namaz vakitlerini takip et
+Exec=/usr/bin/namaz-vakitleri
+Icon=/opt/namaz-vakitleri/namaz.png
+Type=Application
+Terminal=false
+Categories=Utility;
