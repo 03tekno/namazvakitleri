@@ -1,8 +1,11 @@
-Package: namazvakitleri
-Version: 1.0
+Source: namazvakitleri
+Maintainer: mobilturka <muslimlinux@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 1.0
 Section: utils
-Priority: optional
+
+Package: kuranoku
+Priority: extra  
 Architecture: all
 Depends: python3, python3-requests, python3-gi, libgtk-4-1
-Maintainer: Yazilimci <mobilturka@uygulama.com>
 Description: GTK4 ile yazilmis Namaz Vakitleri uygulamasi.
