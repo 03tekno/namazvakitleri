@@ -1,8 +1,8 @@
 [Desktop Entry]
 Name=Namaz Vakitleri
 Comment=Namaz vakitlerini takip et
-Exec=/opt/namazvakitleri
-Icon=/opt/namaz-vakitleri/namaz.png
+Exec=python3 /opt/namazvakitleri/namaz.py
+Icon=/opt/namazvakitleri/namaz.png
 Type=Application
 Terminal=false
 Categories=Utility;
