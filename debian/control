@@ -4,7 +4,7 @@ Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 1.0
 Section: utils
 
-Package: kuranoku
+Package: namazvakitleri
 Priority: extra  
 Architecture: all
 Depends: python3, python3-requests, python3-gi, libgtk-4-1
